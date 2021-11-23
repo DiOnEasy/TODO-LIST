@@ -1,0 +1,9 @@
+.tasks {
+  text-align: center;
+  padding: 25px; }
+  .tasks_creator {
+    padding: 5px; }
+    .tasks_creator input, .tasks_creator button {
+      margin: 5px; }
+
+/*# sourceMappingURL=Tasks.css.map */

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,WAAW;EACT,MAAM,EAAE,GAAG;EACX,OAAO,EAAE,GAAG;EACZ,UAAU,EAAE,WAAW;EACvB,UAAU,EAAE,IAAI",
+"sources": ["TasksItems.scss"],
+"names": [],
+"file": "TasksItems.css"
+}

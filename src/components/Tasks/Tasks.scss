@@ -1,0 +1,10 @@
+.tasks{
+  text-align: center;
+  padding: 25px;
+  &_creator{
+    padding: 5px;
+    input, button{
+      margin: 5px;
+    }
+  }
+}
